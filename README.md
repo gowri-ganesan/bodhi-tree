@@ -1,2 +1,2 @@
 # bodhi-tree
-This repositry contains many projects related to Angular JS, Spring, Hibernate,... Examples and Pet Projects are included here. 
+This repository contains sample projects related to Angular JS, Spring, Hibernate,... You can see examples, usage of features, framework syntax here. It can be a great starting point for the initial project setup and getting hands-on. 
