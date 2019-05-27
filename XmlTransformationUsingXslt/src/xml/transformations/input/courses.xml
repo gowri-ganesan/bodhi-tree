@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+	<course id="1">
+		<name>Mathematics</name>
+		<tutor>MadanRaj</tutor>
+		<students>
+			<student id="1">
+				<first>Kalpana</first>
+				<last>Roy</last>
+				<join_date>01-Jan-2019</join_date>
+			</student>
+			<student id="2">
+				<first>Suresh</first>
+				<last>Kumar</last>
+				<join_date>01-Feb-2019</join_date>
+			</student>
+			<student id="3">
+				<first>Ashok</first>
+				<last>Veera</last>
+				<join_date>01-Mar-2019</join_date>
+			</student>
+		</students>
+		
+	</course>
+		<course id="2">
+		<name>ComputerScience</name>
+		<tutor>Rajalakshmi</tutor>
+		<students>
+			<student id="4">
+				<first>Kishore</first>
+				<last>Kanna</last>
+				<join_date>15-Jan-2019</join_date>
+			</student>
+			<student id="5">
+				<first>Abhijeet</first>
+				<last>Sharma</last>
+				<join_date>15-Feb-2019</join_date>
+			</student>
+			<student id="6">
+				<first>Venkatesh</first>
+				<last>Prabhu</last>
+				<join_date>15-Mar-2019</join_date>
+			</student>
+		</students>
+		
+	</course>
+</courses>
